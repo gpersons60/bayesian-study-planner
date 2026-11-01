@@ -1,0 +1,4 @@
+pgmpy
+google-api-python-client
+google-auth-oauthlib
+matplotlib
